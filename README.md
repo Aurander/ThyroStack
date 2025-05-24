@@ -45,8 +45,6 @@ Key features include:
 
 ## 📊 Performance Metrics
 
-![Performance Table]
-
 | Model              | Accuracy | F1-score | Precision | Recall |
 |--------------------|----------|----------|-----------|--------|
 | Random Forest      | 98.18    | 98.18    | 98.19     | 98.18  |
