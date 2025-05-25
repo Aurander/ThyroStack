@@ -64,19 +64,6 @@ Key features include:
 
 ---
 
-## 🧬 SHAP for Interpretability
-
-![SHAP](https:// raw.githubusercontent.com/slundberg/shap/master/docs/artwork/shap_diagram.png)
-
-We use SHAP values to explain the contribution of each feature. Top features include:
-- TSH
-- FTI
-- TT4
-- T3
-- T4U
-
----
-
 ## 🚀 Run This Project
 
 ### 🔍 Prerequisites
