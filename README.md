@@ -43,27 +43,6 @@ Key features include:
 
 ---
 
-## 📊 Performance Metrics
-
-| Model              | Accuracy | F1-score | Precision | Recall |
-|--------------------|----------|----------|-----------|--------|
-| Random Forest      | 98.18    | 98.18    | 98.19     | 98.18  |
-| ExtraTree          | 97.68    | 97.66    | 97.65     | 97.68  |
-| SVM                | 93.40    | 92.49    | 93.42     | 93.40  |
-| AdaBoost           | 94.81    | 95.54    | 96.28     | 94.81  |
-| DecisionTree       | 98.00    | 97.99    | 98.00     | 98.00  |
-| **Our Proposed Model** | **99.78** | **99.80** | **99.79** | **99.78** |
-
----
-
-## 🧠 Model Architecture
-
-![Workflow Diagram](./workflow_diagram.jpg)
-
-> Fig. 1: Workflow Diagram of the Proposed Stacking Model
-
----
-
 ## 🚀 Run This Project
 
 ### 🔍 Prerequisites
